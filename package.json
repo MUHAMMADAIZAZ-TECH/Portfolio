@@ -2,6 +2,7 @@
   "name": "yt-portfolio",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://MUHAMMADAIZAZ-TECH.github.io/Portfolio",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@testing-library/jest-dom": "^5.16.5",

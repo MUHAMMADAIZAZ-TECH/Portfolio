@@ -77,11 +77,6 @@ const Footer = () => {
             </Zoom>
           </div>
         </div>
-        <Fade>
-          <ArrowUp onClick={scrollUp}>
-            <AiOutlineArrowUp />
-          </ArrowUp>
-        </Fade>
       </Profile>
       {/* <Form>
         <Slide direction="right">
