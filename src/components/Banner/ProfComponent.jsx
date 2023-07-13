@@ -13,10 +13,9 @@ const ProfComponent = () => {
             Hello <span className="green">I'am</span>
           </h4>
           <h1 className="green">Muhammad Aizaz</h1>
-          <h3>Junior Front End Developer| on the way to become a MERN stack developer </h3>
+          <h3>👋 React.js developer building elegant web apps. Expert in React.js, Redux, HTML5, CSS3, and JavaScript. Passionate about learning and staying up-to-date. </h3>
           <p>
-          Currently gaining experience and building up valuable skills in JavaScript, React , React native and highly focused with a comprehensive
-          knowledge of designing and developing the layout, visual appearance and usability of a web and mobile app
+          I have one year of experience in JavaScript, React, React Native, and have developed valuable skills in these technologies. During this time, I have gained comprehensive knowledge in designing and developing the layout, visual appearance, and usability of web and mobile applications. I am highly focused on honing my skills and continuously improving my expertise in these areas.
           </p>
           <button>Let's talk</button>
           <Social>
